@@ -1,7 +1,0 @@
-.superquote {
-  quotes: none;
-}
-.superquote:before,
-.superquote:after {
-  content: none;
-}

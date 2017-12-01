@@ -1,7 +1,0 @@
-blockquote, q {
-  quotes: none;
-}
-blockquote, q:before,
-blockquote, q:after {
-  content: none;
-}
